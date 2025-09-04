@@ -6,7 +6,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Dart, Flutter, Python**
+- 🌱 I’m currently learning **Linux OS, Flutter, Python**
 
 - 💬 Ask me about **Flutter, Cross Platform App Development**
 
