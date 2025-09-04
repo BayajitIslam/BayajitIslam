@@ -1,40 +1,92 @@
-<h1>Hi there, I am <a href="https://github.com/BayajitIslam" target="_blank">Bayajit</a> 🙋🏽‍♂️</h1>
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDczdjZ1aGx5MTBraDVnbjB5a2hkMzJqNXRsYWRrOGc1aW9vYnJlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif"  />
+</div>
 
-![](https://visitor-badge.glitch.me/badge?page_id=bayajitislam)
+###
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/bayajit.islam/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/bayajitisalmm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  />
+  </a>
+  <a href="mailto:hire.bayajitislam@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-I am a Flutter Developer | Building, Learning, Evolving.
+###
 
----
+<h1 align="center">Hi there, I am Bayajit🙋🏽‍♂️</h1>
 
-## My Skills <img alt="Computer" width="40px" src="/Assets/desktop.png"/>
+###
 
-**Languages**
+<p align="left">I am a Flutter Developer | Building, Learning, Evolving</p>
 
-| <img alt="Python" width="30px" src="/Assets/dart.png"/> | <img alt="HTML" width="30px" src="/Assets/html.png"/> | <img alt="CSS" width="30px" src="/Assets/css-3.png"/> |
-| --------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------- |
+###
 
-**Frameworks**
+<h3 align="center">My Skill</h3>
 
-| <img alt="nextjs" width="30px" src="/Assets/flutter.png"/> |
-| ------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------- |
+###
 
-**Tools**
+<h4 align="left">Languages & Frameworks</h4>
 
-| <img alt="Git" width="30px" src="/Assets/git.png"/> | <img alt="VSCode" width="30px" src="/Assets/vscode.png"/> |
-| --------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------- |
+###
 
-**Designing and Photo Editing**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+</div>
 
-| <img alt="Adobe Photoshop" width="30px" src="/Assets/photoshop.png"/> | <img alt="Adobe Lightroom" width="30px" src="/Assets/lightroom.png"/> | <img alt="Gimp" width="30px" src="/Assets/gimp-icon.svg"/> |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------- |
+###
 
-**Audio & Video Editing**
+<h4 align="left">Tools</h4>
 
-| <img alt="Adobe Premiere Pro" width="30px" src="/Assets/premier.png"/> | <img alt="Adobe After Effects" width="30px" src="/Assets/after-effects.png"/> | <img alt="Audacity" width="30px" src="/Assets/Audacity_Logo_nofilter.svg"/> |
-| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+###
 
-## **Connect with Me**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
 
-[<img align="left" alt="Bayajit Islam" width="30px" src="https://avatars.githubusercontent.com/u/207377805?v=4" />](https://github.com/BayajitIslam) [<img align="left" alt="LinkedIn - Bayajit Islam" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com) [<img align="left" alt="YouTube -Bayajit Islam" width="30px" src="/Assets/youtube.png" />](https://www.youtube.com/) [<img align="left" alt="Email -Bayajit Islam" width="30px" src="/Assets/gmail.png" />](mailto:hire.bayajitislam@gmail.com)
+###
+
+<h4 align="left">Currently Learning</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h4 align="left">Others Skill</h4>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="premierepro logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bayajitislam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
