@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I am a Flutter Developer | Building, Learning, Evolving</h3>
+<h3 align="center">I am a App Developer | Building, Learning, Evolving</h3>
 
 ###
 
