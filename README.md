@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter, Cross Platform App Development**
 
-- 📫 How to reach me **hire.bayajitislam@gmail.com**
+- 📫 How to reach me **realbayajitislam@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
 
 ###
