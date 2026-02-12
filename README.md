@@ -6,7 +6,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Linux OS, Python, Django**
+- 🌱 I’m currently learning **Linux OS, Python, FastAPI**
 
 - 💬 Ask me about **Flutter, Cross Platform App Development**
 
